@@ -33,5 +33,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-![Project logo](Screenshot 2024-10-18 153200.png)
+<img src="src\images\crypto.webp" alt="Project logo" />
+<img src="public/Screenshot 2024-10-18 153200.png" alt="Project logo" />
+<img src="public/Screenshot 2024-10-18 153217.png" alt="Project logo" />
+<img src="public/Screenshot 2024-10-18 153238.png" alt="Project logo" />
+
 
